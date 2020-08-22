@@ -13,10 +13,9 @@ Just download a zip from one of the branches and extract it to it's own folder, 
 
 # Running a Server
 
-However you run a server 
+However you run a server is up to you 
 
 # What It's About
 
-With the exception of the so-called 'compilation server' which gathers and compiles all active, registered servers
-and displays them for all users, and perhaps some personal servers that I may choose to run in the future, no servers 
+With the exception of perhaps some personal servers that I may choose to run in the future, no servers 
 that you encounter with this app are official, they are all privately run.
