@@ -5,7 +5,7 @@ It's an anonymous messaging, hosting, advertising, buying/selling, IRC-esk clien
 
 # Files
 
-You'll find the files on the other branches
+You'll find the files on the other branches.
 
 # Installation
 
@@ -13,12 +13,10 @@ Just download a zip from one of the branches and extract it to it's own folder, 
 
 # Running a Server
 
-Download a zip from one of the server branches.
-
+However you run a server 
 
 # What It's About
 
-With the exception of the so-called 'compilation server' which gathers and compiles all active servers
-and displays them for all users authorized to access each of them, and perhaps some personal servers that
-I may choose to run in the future, no servers that you encounter with this app are official, they are all
-independently run.
+With the exception of the so-called 'compilation server' which gathers and compiles all active, registered servers
+and displays them for all users, and perhaps some personal servers that I may choose to run in the future, no servers 
+that you encounter with this app are official, they are all privately run.
