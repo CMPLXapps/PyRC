@@ -16,7 +16,7 @@ Just download a zip from one of the branches and extract it to it's own folder, 
 Download a zip from one of the server branches.
 
 
-# What it's about
+# What It's About
 
 With the exception of the so-called 'compilation server' which gathers and compiles all active servers
 and displays them for all users authorized to access each of them, and perhaps some personal servers that
