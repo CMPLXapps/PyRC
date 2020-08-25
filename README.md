@@ -1,7 +1,7 @@
 # PyRC
 
 PyRC is another app I've created in Python 3 (https://www.python.org/downloads/).
-It's an anonymous messaging, hosting, advertising, buying/selling, IRC-esk client.
+It's a messaging, hosting, advertising, buying/selling, IRC-esk app.
 
 # Files
 
