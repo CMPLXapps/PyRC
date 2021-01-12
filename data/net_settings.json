@@ -1,0 +1,16 @@
+{
+	"ports": {
+		"primary": {
+			"default": "Not Set!",
+			"accepted": [
+				
+			]
+		},
+		"auth": {
+			"default": "Not Set!",
+			"accepted": [
+				
+			]
+		}
+	}
+}
