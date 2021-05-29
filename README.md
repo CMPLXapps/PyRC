@@ -8,7 +8,7 @@ you just want to download and use the app, download the
 build you want to use from the releases section and follow
 the instructions below.
 
-## You may need to jump over some hoops
+## You May Need To Jump Over Some Hoops
 
 If you're using Windows, you're fine. Every build comes Windows ready out of the box.
 
