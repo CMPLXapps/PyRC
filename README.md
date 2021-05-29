@@ -2,6 +2,11 @@
 
 An independent messaging/bulletin board/IRC app.
 
+Please don't clone or download the main branch unless you
+know what you're doing; it's the source code. Instead, if
+you just want to download and use the app, download the
+latest Build and follow the instructions below.
+
 ## You may need to jump over some hoops
 
 If you're using Windows, you're fine. Every build comes Windows compatible out-of-the-box.
