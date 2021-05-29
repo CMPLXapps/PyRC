@@ -19,7 +19,8 @@ an additional process.
 
  * Windows:
 
- As before, eIRC comes Windows ready out of the box, you just need to run `eIRC.exe`\n
+ As before, eIRC comes Windows ready out of the box, you just need to run `eIRC.exe`
+ 
  <img src="https://www.cmplxapps.github.io/eirc/visual/exepic.png">
 
  * Linux:
