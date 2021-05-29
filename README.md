@@ -34,9 +34,9 @@ On ArchLinux:
 sudo pacman -Syy mono
 ```
 
-3. Go to `/CONFIGURE_FOR_LINUX/` and run `setup`
+3. Run `configure-for-linux`
 ```
-./setup
+./configure-for-linux
 ```
 
 4. Run `eirc`
