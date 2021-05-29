@@ -6,7 +6,8 @@ An independent messaging/bulletin board/IRC app.
 
 If you're using Windows, you're fine. Every build comes Windows compatible out-of-the-box.
 
-If you're using Linux or MacOS, you need to use Mono.
+If you're using Linux or MacOS, the process isn't complicated, but you need to go through
+an additional process.
 
 ### Setup Process
 
