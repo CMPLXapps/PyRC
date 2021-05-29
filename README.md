@@ -1,4 +1,4 @@
-# PyRC
+# eIRC
 
 An independent messaging/bulletin board/IRC app.
 
