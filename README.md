@@ -12,7 +12,7 @@ If you're using Linux or MacOS, you need to use Mono.
 
  * Windows:
 
- As said before, eIRC comes Windows ready out of the box, you just need to run `eIRC.exe`.
+ As before, eIRC comes Windows ready out of the box, you just need to run `eIRC.exe`
 
  * Linux:
 
