@@ -10,7 +10,7 @@ the instructions below.
 
 ## You may need to jump over some hoops
 
-If you're using Windows, you're fine. Every build comes Windows compatible out-of-the-box.
+If you're using Windows, you're fine. Every build comes Windows ready out-of-the-box.
 
 If you're using Linux or MacOS, the process isn't complicated, but you need to go through
 an additional process.
