@@ -1,4 +1,4 @@
-# eIRC
+# xIPC
 
 An independent messaging/bulletin board/IRC app.
 
@@ -19,7 +19,7 @@ an additional process.
 
  * Windows:
 
- As before, eIRC comes Windows ready out of the box, you just need to run `eIRC.exe`
+ As before, xIPC comes Windows ready out of the box, you just need to run `xIPC.exe`
  
  <img src="https://www.cmplxapps.github.io/eirc/visual/exepic.png">
 
@@ -48,7 +48,7 @@ sudo pacman -Syy mono
 
 1. Install Mono from this site: https://www.mono-project.com/download/stable/#download-mac
 
-2. Run `eIRC.exe` using mono in the console
+2. Run `xIPC.exe` using mono in the console
 ```
-mono eIRC.exe
+mono xIPC.exe
 ```
