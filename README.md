@@ -21,7 +21,7 @@ an additional process.
 
  As before, xIPC comes Windows ready out of the box, you just need to run `xIPC.exe`
  
- <img src="https://www.cmplxapps.github.io/xIPC/visual/exepic.png?raw=true">
+ ![Figure1-0](https://www.cmplxapps.github.io/xIPC/visual/exepic.png?raw=true)
 
  * Linux:
 
