@@ -20,8 +20,6 @@ an additional process.
  * Windows:
 
  As before, xIPC comes Windows ready out of the box, you just need to run `xIPC.exe`
- 
- <img src="https://www.cmplxapps.github.io/eirc/visual/exepic.png">
 
  * Linux:
 
