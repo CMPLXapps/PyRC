@@ -1,0 +1,17 @@
+
+*.sln
+*.csproj
+*.config
+*.pdb
+*.classpath
+*.project
+
+jsrc/bin/*
+
+csrc/.vs/*
+
+csrc/unix/bin/*
+csrc/unix/obj/*
+
+csrc/nt/bin/*
+csrc/nt/obj/*
